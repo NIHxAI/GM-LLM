@@ -22,7 +22,7 @@
 ## 1.3 전체 구성도
 
 <div align="center">
-<img src="https://raw.githubusercontent/NIHxAI/GM-LLM/main/images/ChatGPT_image.png" style="width:40%;">
+<img src="https://raw.githubusercontent/NIHxAI/GM-LLM/main/images/ChatGPT_image.png" style=" width="600">
 </div>
 
 ---
