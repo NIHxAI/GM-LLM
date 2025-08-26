@@ -22,7 +22,7 @@
 ## 1.3 전체 구성도
 
 <div align="center">
-<img src="https://raw.githubusercontent/NIHxAI/GM-LLM/main/images/ChatGPT_image.png" width="600">
+<img src="https://github.com/NIHxAI/GM-LLM/blob/main/images/ChatGPT_image.png" width="600">
 </div>
 
 ---
@@ -41,7 +41,7 @@ brew install ollama
 ```
 
 <div align="center">
-<img src="https://raw.githubusercontent/NIHxAI/GM-LLM/main/images/ollama_install.png">
+<img src="https://github.com/NIHxAI/GM-LLM/blob/main/images/ollama_install.png">
 </div>
 
 - 설치 후 확인:
